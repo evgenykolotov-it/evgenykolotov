@@ -1,4 +1,4 @@
-Hi there!! [изображение](https://user-images.githubusercontent.com/94759875/145422079-efad959d-6693-4df0-8536-ab1906a367f7.png)
+Hi there!!
 
 - 👀 I’m interested in Software Engeneering.
 - 🌱 I’m currently working a Frontend Developer.
